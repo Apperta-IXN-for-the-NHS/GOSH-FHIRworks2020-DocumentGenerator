@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+   <style>
+       p.a {
+           white-space: pre;
+       }
+   </style>
+    
+    <h2> GOSH-FHIRWorks2020-DocumentGenerator </h2>
+    <button><a href = "http://127.0.0.1:5002/home"> Go to Home </a></button>
+    <h3> Patient record </h3>
+
+    <p class = "a"> 
+        ID                    : {{id}} 
+        Full name        : {{name}} 
+        Gender            : {{gender}} 
+        Birthdate         : {{birthdate}} 
+        Marital            : {{marital}} 
+        Language        : {{language}} 
+    </p>
+
+
+    <form action = "/patientDOCX/{{id}}/" method ="post">
+        <button name = "patientWordBtn" type="submit" > Word </button>
+    </form>
+
+    <form action = "/patientPDF/{{id}}/" method="post">
+        <button name = "patientWordBtn" type="submit"> PDF </button>
+    </form>
+
+</html>

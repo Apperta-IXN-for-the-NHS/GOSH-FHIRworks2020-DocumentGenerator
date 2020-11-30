@@ -1,0 +1,14 @@
+/Users/eunicechandra/Desktop/FHIRworks_2020/dotnet-azure-fhir-web-api/bin/Debug/netcoreapp2.1/donet-azure-fhir-web-api.deps.json
+/Users/eunicechandra/Desktop/FHIRworks_2020/dotnet-azure-fhir-web-api/bin/Debug/netcoreapp2.1/donet-azure-fhir-web-api.runtimeconfig.json
+/Users/eunicechandra/Desktop/FHIRworks_2020/dotnet-azure-fhir-web-api/bin/Debug/netcoreapp2.1/donet-azure-fhir-web-api.runtimeconfig.dev.json
+/Users/eunicechandra/Desktop/FHIRworks_2020/dotnet-azure-fhir-web-api/bin/Debug/netcoreapp2.1/donet-azure-fhir-web-api.dll
+/Users/eunicechandra/Desktop/FHIRworks_2020/dotnet-azure-fhir-web-api/bin/Debug/netcoreapp2.1/donet-azure-fhir-web-api.pdb
+/Users/eunicechandra/Desktop/FHIRworks_2020/dotnet-azure-fhir-web-api/obj/Debug/netcoreapp2.1/donet-azure-fhir-web-api.csprojAssemblyReference.cache
+/Users/eunicechandra/Desktop/FHIRworks_2020/dotnet-azure-fhir-web-api/obj/Debug/netcoreapp2.1/donet-azure-fhir-web-api.csproj.CoreCompileInputs.cache
+/Users/eunicechandra/Desktop/FHIRworks_2020/dotnet-azure-fhir-web-api/obj/Debug/netcoreapp2.1/donet-azure-fhir-web-api.RazorAssemblyInfo.cache
+/Users/eunicechandra/Desktop/FHIRworks_2020/dotnet-azure-fhir-web-api/obj/Debug/netcoreapp2.1/donet-azure-fhir-web-api.RazorAssemblyInfo.cs
+/Users/eunicechandra/Desktop/FHIRworks_2020/dotnet-azure-fhir-web-api/obj/Debug/netcoreapp2.1/donet-azure-fhir-web-api.AssemblyInfoInputs.cache
+/Users/eunicechandra/Desktop/FHIRworks_2020/dotnet-azure-fhir-web-api/obj/Debug/netcoreapp2.1/donet-azure-fhir-web-api.AssemblyInfo.cs
+/Users/eunicechandra/Desktop/FHIRworks_2020/dotnet-azure-fhir-web-api/obj/Debug/netcoreapp2.1/donet-azure-fhir-web-api.RazorTargetAssemblyInfo.cache
+/Users/eunicechandra/Desktop/FHIRworks_2020/dotnet-azure-fhir-web-api/obj/Debug/netcoreapp2.1/donet-azure-fhir-web-api.dll
+/Users/eunicechandra/Desktop/FHIRworks_2020/dotnet-azure-fhir-web-api/obj/Debug/netcoreapp2.1/donet-azure-fhir-web-api.pdb

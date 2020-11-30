@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <title> Home </title>
+    <head>
+        <style>
+            table, th, td {
+            padding: 10px;
+            border: 1px solid black; 
+            border-collapse: collapse;
+            }
+        </style>
+
+    </head>
+
+
+    <body>
+        <h2> GOSH-FHIRWorks2020-DocumentGenerator </h2>
+        <h3> Create Word and PDF Files for Individual Patients</h3>        
+        <table>
+            <tr> 
+                <th> Patient ID </th>
+                <th> Full name</th>
+                <th> Date of birth</th>
+                <th> Patient Record</th>
+            </tr>
+            {% for id,name,birthdate in table_info %}
+            
+            <tr>
+                <td> {{ id }}</td>
+                <td> {{ name }} </td>
+                <td> {{ birthdate }} </td>
+                <td>
+                    <form action = "/createRecord/{{id}}/" method="post">
+                        <button name = "createRecordBtn" type="submit"> Create Record </button>
+                    </form>
+                </td>
+
+            </tr>
+            {% endfor %}
+
+        </table>
+    </body>
+</html>
